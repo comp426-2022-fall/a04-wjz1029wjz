@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-import express from 'express';
-import minimist from 'minimist';
-import { roll } from './lib/roll.js';
+import {roll} from "./lib/roll.js";
+import express from "express";
+import minimist from "minimist";
 
 const app = express();
 //app.use(express.urlencoded({ extended: true }));
