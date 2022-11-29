@@ -1,0 +1,23 @@
+{
+  "name": "a04-wjz1029wjz",
+  "version": "1.0.0",
+  "description": "a04 comp 426",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a04-wjz1029wjz.git"
+  },
+  "author": "wjz1029wjz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a04-wjz1029wjz/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a04-wjz1029wjz#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "minimist": "^1.2.7"
+  }
+}
