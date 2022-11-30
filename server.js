@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-//30 more is nee
+//30 more is need
 
 import {roll} from "./lib/roll.js";
 import express from "express";
