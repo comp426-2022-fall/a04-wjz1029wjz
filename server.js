@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-//30 mor
+//30 more
 
 import {roll} from "./lib/roll.js";
 import express from "express";
